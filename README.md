@@ -22,5 +22,6 @@
 
 ![image](https://user-images.githubusercontent.com/65395051/115167390-04e77080-a0ea-11eb-8a3a-d4bd5db49307.png)
 ### 第二步：微信小程序设置参数。（如果没有账号，请先联系客户获取授权码，然后注册）
-![image](https://user-images.githubusercontent.com/65395051/115167640-eb92f400-a0ea-11eb-8442-3b43dc92a409.png)
+![image](https://user-images.githubusercontent.com/65395051/115167848-8390dd80-a0eb-11eb-8877-acd634e77389.png)
+
 
